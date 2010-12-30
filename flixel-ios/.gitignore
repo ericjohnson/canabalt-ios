@@ -1,0 +1,8 @@
+*~
+*.backup
+build
+*.pbxuser
+*.mode1v3
+.DS_Store
+old-*
+libFlixel.a
