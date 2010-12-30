@@ -42,3 +42,5 @@ from Semi Secret Software, LLC. We cannot help in getting this running
 and we do not guarantee that you will be able to get it to work, nor
 do we guarantee that it won't blow up your computer and/or iOS device
 if you do try and use it. Use at your own risk.
+
+NOTE: Sound effects do not work in the Simulator, only on the device.
