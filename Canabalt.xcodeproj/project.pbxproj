@@ -986,7 +986,7 @@
 				GCC_PREFIX_HEADER = Canabalt_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
-				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/flixel-ios/Headers";
+				HEADER_SEARCH_PATHS = "\"$(PROJECT_DIR)/flixel-ios/Headers\"";
 				INFOPLIST_FILE = "Canabalt-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 3.1.3;
 				PRODUCT_NAME = Canabalt;
@@ -1010,7 +1010,7 @@
 				GCC_PREFIX_HEADER = Canabalt_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
-				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/flixel-ios/Headers";
+				HEADER_SEARCH_PATHS = "\"$(PROJECT_DIR)/flixel-ios/Headers\"";
 				INFOPLIST_FILE = "Canabalt-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 3.1;
 				PRODUCT_NAME = Canabalt;
@@ -1032,7 +1032,7 @@
 				GCC_PREFIX_HEADER = Canabalt_Prefix.pch;
 				GCC_THUMB_SUPPORT = NO;
 				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
-				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/flixel-ios/Headers";
+				HEADER_SEARCH_PATHS = "\"$(PROJECT_DIR)/flixel-ios/Headers\"";
 				INFOPLIST_FILE = "Canabalt-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 3.1.3;
 				PRODUCT_NAME = Canabalt;
