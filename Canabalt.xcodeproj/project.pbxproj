@@ -970,7 +970,6 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "739A9136-0A9B-406F-8D3B-159EA2D34F05";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "";
 			};
 			name = "App Store";
 		};
@@ -1061,7 +1060,6 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D4754EFE-9CDA-4260-B87B-1BBEBEB4A168";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "";
 			};
 			name = Debug;
 		};
@@ -1085,7 +1083,6 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "508317EB-FEF7-4E7C-A4E7-EC0F3E638C59";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "";
 			};
 			name = Release;
 		};
